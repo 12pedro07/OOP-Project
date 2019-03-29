@@ -11,3 +11,6 @@ Our idea was to create a platform to evaluate the students performance in order 
   * Kaike Rodrigues Zuanetti
   * Ibrahim Jamil Orra
   * Matheus Guedes
+
+**Project Idea:**
+![alt text](https://github.com/12pedro07/OOP-Project/tree/master/imgs/UML.jpg)

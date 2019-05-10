@@ -14,3 +14,7 @@ Our idea was to create a platform to evaluate the students performance in order 
 
 **Project Idea:**
 ![DIAGRAM](https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.jpg)
+
+<div align="center">
+  <img src="https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.jpg">
+</div>

@@ -13,7 +13,7 @@ Our idea was to create a platform to evaluate the students performance in order 
   * Matheus Guedes
 
 **Project Idea:**
-![DIAGRAM](https://drive.google.com/open?id=1jPKM9RvHS-N25OIrEr2k8HkS3mVGFuSQ)
+![DIAGRAM](https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.png)
 
-
+**UML:**
 ![UML](https://github.com/12pedro07/OOP-Project/tree/master/imgs/UML.png)

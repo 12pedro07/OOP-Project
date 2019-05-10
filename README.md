@@ -16,5 +16,5 @@ Our idea was to create a platform to evaluate the students performance in order 
 ![DIAGRAM](https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.jpg)
 
 <div align="center">
-  <img src="https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.jpg">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png">
 </div>

@@ -7,10 +7,10 @@ Our idea was to create a platform to evaluate the students performance in order 
 **College:** FEI
 
 **Group:** 
-  * Pedro Henrique Silva Domingues
-  * Kaike Rodrigues Zuanetti
-  * Ibrahim Jamil Orra
-  * Matheus Guedes
+  * Pedro Henrique Silva Domingues R.A.: 22.218.019-2
+  * Kaike Rodrigues Zuanetti       R.A.: 22.118.116-7
+  * Ibrahim Jamil Orra             R.A.: 22.118.183-7
+  * Matheus Guedes                 R.A.: 22.118.072-2
 
 **Project Idea:**
 ![DIAGRAM](https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.png)

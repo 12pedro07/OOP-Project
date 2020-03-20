@@ -13,7 +13,9 @@ Our idea was to create a platform to evaluate the students performance in order 
   * Matheus Guedes                 R.A.: 22.118.072-2
 
 **Project Idea:**
-![DIAGRAM](https://github.com/12pedro07/OOP-Project/tree/master/imgs/qss.png)
+![DIAGRAM](imgs/qss.png)
+
+---------------------------------------------------------------------
 
 **UML:**
-![UML](https://github.com/12pedro07/OOP-Project/tree/master/imgs/UML.png)
+![UML](imgs/UML.png)
